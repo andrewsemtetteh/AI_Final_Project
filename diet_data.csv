@@ -1,0 +1,93 @@
+Diet Name,Ingredients,Instructions,Cooking Time,Calories,Protein (g),Carbs (g),Fat (g),Fiber (g),Sugars (g),Sodium (g),Category,Allergens,Cuisine Type,Dietary Tags,Cooking Method,Dietary Restrictions,Vegetarian,Meal Type
+Jollof Rice,"Rice, tomatoes, onions, peppers, spices",Cook rice with tomato sauce and spices.,50 min,450,7.5,85.2,10.3,4.5,6,300,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Lunch
+Banku and Tilapia,"Banku, tilapia, tomatoes, onions, spices",Cook tilapia with banku and spices.,60 min,500,30.2,70.6,15.2,4,0,350,Main,Fish,Ghanaian,"High in Protein, Carbs",Grilled,None,No,Dinner
+Kenkey and Fish,"Kenkey, fish, tomatoes, onions, spices",Cook fish with kenkey and spices.,60 min,450,25.3,60.4,12.5,3.7,0,300,Main,Fish,Ghanaian,"High in Protein, Carbs",Boiled,None,No,Dinner
+Fried Rice,"Rice, vegetables, spices, oil",Fry rice with vegetables and spices.,30 min,400,8.2,60.3,12.1,3.4,0,200,Main,None,Ghanaian,High in Carbs,Fried,None,Yes,Lunch
+Rice Balls,"Rice, tomato sauce, spices",Cook rice and form into balls with sauce.,45 min,350,7.8,60.1,2.8,0,0,150,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Snack
+Rice and Beans,"Rice, beans, tomatoes, onions, spices",Cook rice with beans and spices.,50 min,400,12.4,65.3,6.2,0,0,300,Main,None,Ghanaian,"High in Carbs, Protein",Boiled,None,Yes,Lunch
+Maafe,"Groundnuts, meat, vegetables, tomatoes, onions, spices",Cook groundnuts with meat and vegetables.,60 min,500,25.5,20.6,10.4,5.6,0,350,Main,"Nuts, Meat",Ghanaian,High in Protein,Stewed,None,No,Dinner
+Fried Plantains,"Plantains, oil",Fry plantains in oil.,20 min,350,1.8,20.5,3.2,10.1,0,150,Snack,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Boiled Yam,Yam,Boil yam until tender.,30 min,290,3.2,60.5,2.6,0,0,10,Side Dish,None,Ghanaian,High in Carbs,Boiled,None,Yes,Dinner
+Yam Balls,"Yam, spices, oil",Form boiled yam into balls and fry.,40 min,350,4.1,20.3,2.7,0,0,150,Snack,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Grilled Tilapia,"Tilapia, spices, oil",Grill tilapia with spices.,30 min,200,25.3,10.2,2.1,0,0,150,Main,Fish,Ghanaian,High in Protein,Grilled,None,No,Dinner
+Coconut Rice,"Rice, coconut milk, spices",Cook rice with coconut milk and spices.,45 min,400,5.2,12.1,3.3,8.4,0,200,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Lunch
+Fried Snail,"Snails, spices, oil",Fry snails with spices.,40 min,300,25.7,10.4,6.2,0,0,250,Main,Shellfish,Ghanaian,High in Protein,Fried,None,No,Dinner
+Kelewele,"Plantains, ginger, garlic, pepper, salt",Fry plantains with ginger and spices.,20 min,255,2.7,60.7,10.5,5.2,0,150,Snack,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Groundnut Cake,"Groundnuts, sugar, spices",Bake groundnuts with sugar and spices.,45 min,350,15.2,20.4,8.1,15.3,0,200,Snack,Nuts,Ghanaian,High in Protein,Baked,None,Yes,Snack
+Eggplant Stew,"Eggplant, tomatoes, onions, spices",Cook eggplant with tomatoes and spices.,40 min,200,4.1,12.3,5.3,6.4,0,150,Main,None,Ghanaian,High in Vegetables,Stewed,None,Yes,Dinner
+Fish and Yam,"Fish, yam, tomatoes, onions, spices",Cook fish with yam and spices.,60 min,350,25.5,15.3,5.4,2.1,0,250,Main,Fish,Ghanaian,"High in Protein, Carbs",Stewed,None,No,Dinner
+Millet Porridge,"Millet, milk, sugar",Cook millet with milk and sugar.,30 min,280,6.2,45.5,2.1,12.6,0,150,Breakfast,Dairy,Ghanaian,High in Carbs,Boiled,None,Yes,Breakfast
+Gari and Beans,"Gari, beans, tomatoes, onions, spices",Cook beans with gari.,35 min,320,10.3,60.7,5.4,0,0,150,Main,None,Ghanaian,"High in Carbs, Protein",Boiled,None,Yes,Lunch
+Jollof and Chicken,"Rice, tomatoes, onions, chicken, spices",Cook rice with tomato sauce and chicken.,50 min,470,20.5,65.6,15.4,5.2,0,250,Main,Chicken,Ghanaian,"High in Protein, Carbs",Stewed,None,No,Dinner
+Fufu and Light Soup,"Fufu, goat meat, tomatoes, onions, spices",Prepare light soup with fufu.,70 min,600,30.1,80.4,20.3,3.6,0,400,Main,Meat,Ghanaian,High in Protein,Boiled,None,No,Dinner
+Tuo Zaafi,"Tuo, groundnuts, meat, tomatoes, spices",Cook tuo zaafi with groundnuts and meat.,65 min,550,28.4,70.3,15.6,5.2,0,350,Main,"Nuts, Meat",Ghanaian,High in Protein,Stewed,None,No,Dinner
+Okra Stew,"Okra, tomatoes, onions, spices",Prepare okra stew with tomatoes and spices.,50 min,180,4,15.3,4.5,6,0,100,Main,None,Ghanaian,High in Vegetables,Stewed,None,Yes,Dinner
+Palm Nut Soup,"Palm nuts, meat, tomatoes, spices",Cook palm nuts with meat and spices.,70 min,600,25.2,85.5,25.4,7.3,0,400,Main,"Nuts, Meat",Ghanaian,"High in Protein, Fat",Stewed,None,No,Dinner
+Plantain Fufu,"Plantains, spices",Prepare fufu with plantains.,45 min,400,2,90,4,15,0,200,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Dinner
+Light Soup with Fish,"Fish, tomatoes, onions, spices",Prepare light soup with fish.,50 min,300,25.5,10.2,4.5,2,0,150,Main,Fish,Ghanaian,High in Protein,Boiled,None,No,Dinner
+Beans Cake,"Beans, spices, onions",Fry beans into cakes.,35 min,350,15.6,10,5,7.5,0,200,Snack,Beans,Ghanaian,High in Protein,Fried,None,Yes,Snack
+Steamed Plantains,"Plantains, salt",Steam plantains until tender.,20 min,270,2,20,3,10,0,75,Side Dish,None,Ghanaian,High in Carbs,Steamed,None,Yes,Breakfast
+Okpa,"Flour, water, spices","Mix flour with water and spices, then steam.",40 min,320,8,40,5,0,0,150,Snack,None,Ghanaian,High in Carbs,Steamed,None,Yes,Snack
+Kelewele and Fish,"Plantains, fish, spices, oil",Fry plantains and serve with fish.,30 min,400,23,30,5,10,0,250,Main,Fish,Ghanaian,"High in Protein, Carbs",Fried,None,No,Dinner
+Spicy Jollof Rice,"Rice, tomatoes, onions, spices, chili","Cook rice with tomatoes, onions, and chili.",50 min,470,8.2,85.5,11,5.2,6.1,300,Main,None,Ghanaian,"High in Carbs, Spicy",Boiled,None,Yes,Lunch
+Egg Stew,"Eggs, tomatoes, onions, spices",Cook eggs with tomatoes and spices.,30 min,250,14.2,20,10,1.5,0,200,Main,None,Ghanaian,High in Protein,Stewed,None,Yes,Lunch
+Fufu and Goat Meat,"Fufu, goat meat, tomatoes, spices",Prepare fufu with goat meat and spices.,70 min,600,30.5,80,20.6,5,0,400,Main,Meat,Ghanaian,High in Protein,Boiled,None,No,Dinner
+Sweet Potatoes,"Sweet potatoes, salt",Boil sweet potatoes until tender.,30 min,300,4,70,5,10,0,50,Side Dish,None,Ghanaian,High in Carbs,Boiled,None,Yes,Dinner
+Egg and Plantain,"Eggs, plantains, spices",Fry eggs with plantains.,30 min,350,14,20.5,10,2,0,200,Main,None,Ghanaian,High in Protein,Fried,None,Yes,Lunch
+Plantain Porridge,"Plantains, milk, sugar",Cook plantains with milk and sugar.,40 min,350,5,60,3.5,12,0,150,Breakfast,Dairy,Ghanaian,High in Carbs,Boiled,None,Yes,Breakfast
+Bofrot,"Flour, sugar, spices",Fry dough made from flour and sugar.,40 min,400,6,45,10,12,0,200,Snack,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Plantain Cake,"Plantains, flour, sugar, spices",Bake plantains with flour and sugar.,45 min,350,4.5,40,5,15,0,200,Snack,None,Ghanaian,High in Carbs,Baked,None,Yes,Snack
+Tomato Gravy Stew,"Tomatoes, onions, peppers, spices",Cook tomatoes with onions and peppers.,40 min,150,2.5,5,2,8,0,100,Main,None,Ghanaian,High in Vegetables,Stewed,None,Yes,Dinner
+Gari Fortor,"Gari, meat, tomatoes, onions, spices",Cook gari with meat and spices.,60 min,500,25,60,15,0,0,350,Main,Meat,Ghanaian,High in Protein,Stewed,None,No,Dinner
+Light Soup and Yam,"Light soup, yam, spices",Prepare light soup and serve with yam.,60 min,550,25,70,15,5,0,400,Main,None,Ghanaian,"High in Protein, Carbs",Stewed,None,No,Dinner
+Millet Cake,"Millet, flour, sugar, spices",Bake millet with flour and sugar.,50 min,350,6,40,5,10,0,200,Snack,None,Ghanaian,High in Carbs,Baked,None,Yes,Snack
+Tomato Rice,"Rice, tomatoes, onions, spices",Cook rice with tomatoes and spices.,50 min,450,6.3,85.5,12,4.5,0,300,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Lunch
+Grilled Chicken,"Chicken, spices, oil",Grill chicken with spices.,40 min,350,30.4,15.2,8,0,0,200,Main,Chicken,Ghanaian,High in Protein,Grilled,None,No,Dinner
+Beef Kebabs,"Beef, spices, oil",Grill beef with spices.,45 min,400,32.5,20,5.5,0,0,250,Snack,Beef,Ghanaian,High in Protein,Grilled,None,No,Snack
+Spicy Beans,"Beans, spices, onions",Cook beans with spices and onions.,45 min,350,15,5,4,0,0,200,Main,None,Ghanaian,High in Protein,Boiled,None,Yes,Dinner
+Tofu and Vegetables,"Tofu, mixed vegetables, spices",Stir-fry tofu with vegetables and spices.,30 min,300,10.5,12,6,5,0,150,Main,Soy,Ghanaian,High in Protein,Stir-fried,None,Yes,Dinner
+Cowpea Stew,"Cowpeas, tomatoes, onions, spices",Cook cowpeas with tomatoes and spices.,50 min,400,16.5,55,8,6,0,250,Main,None,Ghanaian,High in Protein,Stewed,None,Yes,Lunch
+Yam and Egg Sauce,"Yam, eggs, tomatoes, onions, spices",Prepare sauce with eggs and serve with yam.,50 min,450,12,55,10,4,0,200,Main,None,Ghanaian,High in Protein,Stewed,None,Yes,Dinner
+Gari Fortor and Fish,"Gari, fish, tomatoes, onions, spices",Cook gari with fish and spices.,60 min,500,25,60,15,0,0,350,Main,Fish,Ghanaian,High in Protein,Stewed,None,No,Dinner
+Spicy Okra Stew,"Okra, tomatoes, onions, spices, chili",Cook okra with spices and chili.,50 min,200,4.5,18,5,6,0,150,Main,None,Ghanaian,High in Vegetables,Stewed,None,Yes,Dinner
+Gari and Fish Stew,"Gari, fish, tomatoes, onions, spices",Cook fish with gari and spices.,60 min,550,30.5,70,20,5,0,400,Main,Fish,Ghanaian,High in Protein,Stewed,None,No,Dinner
+Spicy Plantain Soup,"Plantains, tomatoes, onions, spices, chili",Prepare spicy plantain soup with spices.,50 min,350,3.5,60,5,10,0,150,Main,None,Ghanaian,"High in Carbs, Spicy",Stewed,None,Yes,Dinner
+Tofu and Beans Stew,"Tofu, beans, tomatoes, spices",Cook tofu with beans and spices.,50 min,350,15,20,8,4,0,200,Main,Soy,Ghanaian,High in Protein,Stewed,None,Yes,Dinner
+Coconut Yam,"Yam, coconut milk, spices",Cook yam with coconut milk and spices.,50 min,400,3.2,70,5.5,8,0,200,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Dinner
+Bean Cake,"Beans, flour, spices",Bake beans with flour and spices.,45 min,350,12.5,20,7,5,0,150,Snack,Beans,Ghanaian,High in Protein,Baked,None,Yes,Snack
+Fish Pie,"Fish, flour, spices",Bake fish with flour and spices.,50 min,400,20,30,10,6,0,200,Snack,Fish,Ghanaian,High in Protein,Baked,None,No,Snack
+Plantain Chips,"Plantains, salt, oil",Fry plantains with salt.,30 min,350,1.5,20,5,10,0,200,Snack,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Fish and Jollof Rice,"Fish, rice, tomatoes, spices",Cook rice with fish and spices.,60 min,500,25,70,15,5,0,300,Main,Fish,Ghanaian,High in Protein,Boiled,None,No,Dinner
+Jollof and Fried Plantain,"Rice, plantains, tomatoes, spices",Cook rice with Jollof sauce and serve with plantains.,60 min,500,8,85.5,15,10,0,300,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Dinner
+Fried Rice and Beans,"Rice, beans, vegetables, spices",Fry rice with beans and vegetables.,30 min,400,10,60,10,5,0,250,Main,None,Ghanaian,High in Protein,Fried,None,Yes,Lunch
+Cabbage Stew,"Cabbage, tomatoes, onions, spices",Cook cabbage with tomatoes and spices.,40 min,150,4.5,8,5,5,0,100,Main,None,Ghanaian,High in Vegetables,Stewed,None,Yes,Dinner
+Groundnut Soup,"Groundnuts, meat, tomatoes, spices",Cook groundnuts with meat and spices.,70 min,600,28,80,25,10,0,400,Main,"Nuts, Meat",Ghanaian,"High in Protein, Fat",Stewed,None,No,Dinner
+Yam and Groundnut Stew,"Yam, groundnuts, tomatoes, spices",Prepare stew with yam and groundnuts.,70 min,550,25,70,15,7,0,400,Main,Nuts,Ghanaian,"High in Protein, Carbs",Stewed,None,No,Dinner
+Grilled Fish,"Fish, spices, oil",Grill fish with spices.,40 min,300,20,10,5,0,0,200,Main,Fish,Ghanaian,High in Protein,Grilled,None,No,Dinner
+Cabbage and Rice,"Cabbage, rice, spices",Cook cabbage with rice and spices.,50 min,350,6.5,60,8,5,0,200,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Dinner
+Mixed Vegetable Salad,"Mixed vegetables, spices, dressing",Toss vegetables with dressing.,15 min,100,3,10,2,2,0,50,Side Dish,None,Ghanaian,High in Vegetables,Raw,None,Yes,Lunch
+Tuna Salad,"Tuna, mixed vegetables, dressing",Toss tuna with vegetables and dressing.,20 min,250,15,10,8,2,0,150,Side Dish,Fish,Ghanaian,High in Protein,Raw,None,Yes,Lunch
+Spicy Tofu Stir-fry,"Tofu, mixed vegetables, chili, spices",Stir-fry tofu with vegetables and chili.,30 min,300,12,15,6,4,0,150,Main,Soy,Ghanaian,"High in Protein, Spicy",Stir-fried,None,Yes,Dinner
+Plantain and Egg Stew,"Plantains, eggs, tomatoes, spices",Cook plantains with eggs and spices.,40 min,350,10,45,12,4,0,200,Main,None,Ghanaian,High in Protein,Stewed,None,Yes,Dinner
+Yam Porridge,"Yam, milk, sugar",Cook yam with milk and sugar.,45 min,350,5,60,4.5,12,0,150,Breakfast,Dairy,Ghanaian,High in Carbs,Boiled,None,Yes,Breakfast
+Tom Brown,"Roasted maize, sugar, milk",Blend roasted maize with milk and sugar.,30 min,350,8,60,8,5,15,100,Breakfast,Dairy,Ghanaian,"High in Carbs, Protein",Blended,None,Yes,Breakfast
+Meat Pie,"Flour, meat, onions, spices, oil",Bake filled pastry with meat.,60 min,400,15,40,20,2,5,300,Snack,Gluten,Ghanaian,"High in Protein, Carbs",Baked,None,No,Snack
+Eba,"Cassava flour, water",Mix cassava flour with water and cook.,30 min,300,1,70,1,0,0,150,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Lunch/Dinner
+Kontomire Stew,"Kontomire (cocoyam leaves), tomatoes, onions, spices",Cook kontomire with tomatoes and spices.,60 min,250,5,10,18,4,2,200,Main,None,Ghanaian,High in Vegetables,Stewed,None,Yes,Dinner
+Pepper Soup,"Pepper, meat (optional), spices",Cook pepper with meat and spices.,50 min,300,20,15,10,5,0,250,Main,Meat,Ghanaian,"High in Protein, Spicy",Stewed,None,No,Dinner
+Fried Rice,"Rice, vegetables, spices, oil",Stir-fry rice with vegetables and spices.,30 min,400,8,70,15,5,3,300,Main,None,Ghanaian,High in Carbs,Stir-fried,None,Yes,Lunch/Dinner
+Gari and Beans,"Gari, beans, onions, spices",Mix gari with beans and spices.,30 min,500,10,85,12,6,5,300,Main,Beans,Ghanaian,"High in Protein, Carbs",Mixed,None,Yes,Lunch/Dinner
+Palm Nut Soup,"Palm nuts, meat (optional), spices",Cook palm nuts with meat and spices.,90 min,650,30,75,30,8,3,400,Main,"Nuts, Meat",Ghanaian,"High in Fat, Protein",Stewed,None,No,Dinner
+Ofe Nsala,"Yam, cocoyam, spices",Cook yam and cocoyam with spices.,70 min,500,10,80,20,6,2,200,Main,None,Ghanaian,High in Carbs,Stewed,None,Yes,Dinner
+Grilled Chicken Wings,"Chicken wings, spices, oil",Grill chicken wings with spices.,40 min,350,25,15,20,0,0,300,Main,Chicken,Ghanaian,High in Protein,Grilled,None,No,Dinner
+Sweet Potato Porridge,"Sweet potatoes, sugar, milk",Blend sweet potatoes with milk and sugar.,45 min,400,4,90,6,20,0,150,Breakfast,Dairy,Ghanaian,High in Carbs,Blended,None,Yes,Breakfas
+Kelewele,"Plantains, spices, oil",Fry plantains with spices.,20 min,200,1,45,10,7,0,150,Side Dish,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Waakye,"Rice, beans, leaves, fish (optional)",Cook rice with beans and optional fish.,90 min,550,12,80,10,6,3,300,Main,Beans,Ghanaian,"High in Protein, Carbs",Boiled,None,No,Lunch/Dinner
+Kenkey,"Corn dough, water",Steam corn dough.,60 min,300,2,70,1,0,0,150,Main,None,Ghanaian,High in Carbs,Steamed,None,Yes,Lunch/Dinner
+Fried Plantain,"Plantains, oil",Fry plantains.,15 min,250,1.5,60,12,10,0,200,Side Dish,None,Ghanaian,High in Carbs,Fried,None,Yes,Snack
+Tuo Zaafi,"Millet flour, water",Cook millet flour with water.,60 min,350,8,65,2,0,0,150,Main,None,Ghanaian,High in Carbs,Boiled,None,Yes,Lunch/Dinner
+Shito,"Pepper, onions, spices, oil",Blend and cook ingredients into a spicy sauce.,30 min,150,3,5,10,2,0,200,Condiment,None,Ghanaian,High in Spice,Cooked,None,Yes,Side Dish
+Chofi,"Chicken, spices, oil",Fry chicken with spices.,40 min,300,25,15,10,0,0,300,Main,Chicken,Ghanaian,High in Protein,Fried,None,No,Dinner
+Koose,"Beans, spices, flour, oil",Fry spiced bean mixture into fritters.,30 min,250,12,35,10,5,0,200,Snack,Beans,Ghanaian,High in Protein,Fried,None,Yes,Snack
+Gari Fortor,"Gari, tomatoes, onions, peppers, spices",Mix gari with tomatoes and spices.,20 min,350,4,70,10,8,0,150,Main,None,Ghanaian,High in Carbs,Raw,None,Yes,Lunch/Dinner
+Omo Tuo,"Rice, water, palm oil",Cook rice with water and palm oil.,60 min,400,6,80,15,5,0,200,Main,None,Ghanaian,"High in Carbs, Fat",Boiled,None,Yes,Dinner
