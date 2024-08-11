@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
 os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
+st.secrets.get("REPLICATE_API_TOKEN")
 
 # initializing the llama 2 model using replicate
 llm = Replicate(
