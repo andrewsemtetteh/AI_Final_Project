@@ -14,6 +14,8 @@ replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
 os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
 st.secrets.get("REPLICATE_API_TOKEN")
 
+replicate_token = st.secrets["api"]["REPLICATE_API_TOKEN"]
+
 # initializing the llama 2 model using replicate
 llm = Replicate(
     model="meta/llama-2-70b-chat:02e509c789964a7ea8736978a43525956ef40397be9033abf9fd2badfe68c9e3",
