@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+import requests
 import replicate
 from langchain.prompts import PromptTemplate
 from langchain.llms import Replicate
@@ -180,7 +181,7 @@ with st.expander("Enter Your Information & Preferences"):
     weight = st.number_input('Weight (kg)', min_value=1.0, max_value=300.0)
     height = st.number_input('Height (cm)', min_value=1, max_value=300)
     gender = st.selectbox('Gender', ['Male', 'Female'])
-    allergies = st.multiselect('Allergies', ['None', 'Fish', 'Nuts', 'Meat', 'Dairy', 'Beans', 'Soy', 'Shellfish', 'Gluten', 'Chicken', 'Beef'])
+    allergies = st.multiselect('Allergens', ['None', 'Fish', 'Nuts', 'Meat', 'Dairy', 'Beans', 'Soy', 'Shellfish', 'Gluten', 'Chicken', 'Beef'])
     vegetarian_option = st.selectbox('Diet Type', ['All', 'Non-vegetarian', 'Vegetarian'])
     vegetarian_mapping = {'All': 'All', 'Vegetarian': 'Yes', 'Non-vegetarian': 'No'}
     vegetarian = vegetarian_mapping[vegetarian_option]
