@@ -11,12 +11,8 @@ from dotenv import load_dotenv
 # loading environment variables from .env file
 load_dotenv()
 
-# The code is retrieving the value of the environment variable "REPLICATE_API_TOKEN" using
-# `os.getenv()` and then setting the same value to the environment variable "REPLICATE_API_TOKEN"
-# using `os.environ[]`. This code essentially ensures that the value of the "REPLICATE_API_TOKEN"
-# environment variable remains the same by retrieving it and then setting it back to itself.
-# replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
-# os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
+replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
+os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
 st.secrets.get("REPLICATE_API_TOKEN")
 replicate_token = st.secrets["api"]["REPLICATE_API_TOKEN"]
 
