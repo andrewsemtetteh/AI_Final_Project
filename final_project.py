@@ -10,10 +10,14 @@ from dotenv import load_dotenv
 
 # loading environment variables from .env file
 load_dotenv()
-replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
-os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
-st.secrets.get("REPLICATE_API_TOKEN")
 
+# The code is retrieving the value of the environment variable "REPLICATE_API_TOKEN" using
+# `os.getenv()` and then setting the same value to the environment variable "REPLICATE_API_TOKEN"
+# using `os.environ[]`. This code essentially ensures that the value of the "REPLICATE_API_TOKEN"
+# environment variable remains the same by retrieving it and then setting it back to itself.
+# replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
+# os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
+st.secrets.get("REPLICATE_API_TOKEN")
 replicate_token = st.secrets["api"]["REPLICATE_API_TOKEN"]
 
 # initializing the llama 2 model using replicate
@@ -175,7 +179,7 @@ def workout_recommendations(activity_level, activity_factor):
     
     return recommendations[['Workout Name', 'Duration (minutes)', 'Type of Exercise', 'Reps', 'Sets', 'Distance (km)', 'Intensity']]
 
-st.markdown('<h1 style="color: orange; text-align: center; font-size: 150px;">Didi Yiye</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="color: orange; text-align: center; font-size: 130px;">Didi Yiye</h1>', unsafe_allow_html=True)
 st.markdown('<h2 style="text-align: center; font-size: 20px;">Your Ghanaian Diet & Workout Recommender</h2>', unsafe_allow_html=True)
 
 # accepting user input
