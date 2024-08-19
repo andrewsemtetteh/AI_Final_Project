@@ -10,9 +10,6 @@ from dotenv import load_dotenv
 
 # loading environment variables from .env file
 load_dotenv()
-
-replicate_api_token = os.getenv("REPLICATE_API_TOKEN")
-os.environ["REPLICATE_API_TOKEN"] = replicate_api_token
 st.secrets.get("REPLICATE_API_TOKEN")
 replicate_token = st.secrets["api"]["REPLICATE_API_TOKEN"]
 
